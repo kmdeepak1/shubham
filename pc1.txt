@@ -2,3 +2,11 @@ this is a new program
 leaning a git and git hub
 
 macine leraning- a computer program said to learn from experiance.
+
+Add Records
+
+The Members table created in the previous chapter is empty.
+
+We will use the Python interpreter (Python shell) to add some members to it.
+
+To open a Python shell, type this command:

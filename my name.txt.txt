@@ -1,1 +1,13 @@
 wellcome to git hub and pratcice how to push and pull
+
+
+
+Note: The name of the view does not have to be the same as the application.
+
+I call it members because I think it fits well in this context.
+
+This is a simple example on how to send a response back to the browser.
+
+But how can we execute the view? Well, we must call the view via a URL.
+
+You will learn about URLs in the next chapter.
